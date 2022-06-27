@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid a776c917-8cc1-47de-965e-32003497acc4)
+
+  (paper "A4")
+
+  (title_block
+    (title "CIB PCB")
+    (date "2022-05-27")
+    (company "ChargePoint, Inc")
+  )
+
+  (lib_symbols
+  )
+
+)
