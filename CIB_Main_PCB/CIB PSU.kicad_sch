@@ -2370,7 +2370,7 @@
     (property "Manufacturer #" "BZX84C5V1LT3G" (id 6) (at 78.74 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "DigiKey #" "BZX84C5V1LT3GOSCT-ND" (id 4) (at 78.74 127 0)
+    (property "DigiKey #" "BZX84C5V1LT3GOSCT-ND" (id 7) (at 78.74 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "DigiKey Price/Stock" "https://www.digikey.co.uk/en/products/detail/onsemi/BZX84C5V1LT3G/1476354?s=N4IgTCBcDaIEIC0AaAOALAYQKwDUCMAMgCoDMA4gPIDKGRAtAHIAiIAugL5A" (id 7) (at 78.74 127 0)

@@ -493,7 +493,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "Freerouting/CIB_Main_PCB.dsn",
       "step": "",
       "vrml": ""
     },
