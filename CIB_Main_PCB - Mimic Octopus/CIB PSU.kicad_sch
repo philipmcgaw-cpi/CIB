@@ -2373,7 +2373,7 @@
     (property "DigiKey #" "BZX84C5V1LT3GOSCT-ND" (id 7) (at 78.74 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "DigiKey Price/Stock" "https://www.digikey.co.uk/en/products/detail/onsemi/BZX84C5V1LT3G/1476354?s=N4IgTCBcDaIEIC0AaAOALAYQKwDUCMAMgCoDMA4gPIDKGRAtAHIAiIAugL5A" (id 7) (at 78.74 127 0)
+    (property "DigiKey Price/Stock" "https://www.digikey.co.uk/en/products/detail/onsemi/BZX84C5V1LT3G/1476354?s=N4IgTCBcDaIEIC0AaAOALAYQKwDUCMAMgCoDMA4gPIDKGRAtAHIAiIAugL5A" (id 8) (at 78.74 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8ab31a61-9fcf-442c-8733-3f5d8137e1bd))
