@@ -2975,7 +2975,7 @@
     (property "Value" "55V" (id 1) (at 257.81 35.5599 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 255.27 34.29 90)
+    (property "Footprint" "Diode_SMD:D_SMB_Handsoldering" (id 2) (at 255.27 34.29 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 255.27 34.29 90)
