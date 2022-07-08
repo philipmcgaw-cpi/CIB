@@ -380,8 +380,6 @@
         "name": "High Power",
         "nets": [
           "+12V",
-          "+VDC",
-          "-VDC",
           "/Cross Point Matrix/Eq Ch1 High",
           "/Cross Point Matrix/Eq Ch1 Low",
           "/Cross Point Matrix/Eq Ch2 High",
@@ -408,10 +406,7 @@
           "/External Equipment Connections/Eq Ch3 High Ext",
           "/External Equipment Connections/Eq Ch4 High Ext",
           "/Misc Relays/DUT Power/DUT Power Ch1",
-          "/Misc Relays/DUT Power/DUT Power Ch2",
-          "/Power Supply/Filtered supply",
-          "/Power Supply/VSW",
-          "GND"
+          "/Misc Relays/DUT Power/DUT Power Ch2"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(72, 0, 0)",
