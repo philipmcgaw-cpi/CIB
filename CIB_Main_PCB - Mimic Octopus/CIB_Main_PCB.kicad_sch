@@ -602,54 +602,6 @@
         )
       )
     )
-    (symbol "power:-VDC" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
-      (property "Reference" "#PWR" (id 0) (at 0 -2.54 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "Value" "-VDC" (id 1) (at 0 6.35 0)
-        (effects (font (size 1.27 1.27)))
-      )
-      (property "Footprint" "" (id 2) (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "Datasheet" "" (id 3) (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_description" "Power symbol creates a global label with name \"-VDC\"" (id 5) (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (symbol "-VDC_0_1"
-        (polyline
-          (pts
-            (xy -1.143 3.175)
-            (xy 1.143 3.175)
-          )
-          (stroke (width 0.508) (type default) (color 0 0 0 0))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 0 0)
-            (xy 0 1.27)
-          )
-          (stroke (width 0) (type default) (color 0 0 0 0))
-          (fill (type none))
-        )
-        (circle (center 0 3.175) (radius 1.905)
-          (stroke (width 0.254) (type default) (color 0 0 0 0))
-          (fill (type none))
-        )
-      )
-      (symbol "-VDC_1_1"
-        (pin power_in line (at 0 0 90) (length 0) hide
-          (name "-VDC" (effects (font (size 1.27 1.27))))
-          (number "1" (effects (font (size 1.27 1.27))))
-        )
-      )
-    )
     (symbol "power:GND" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (id 0) (at 0 -6.35 0)
         (effects (font (size 1.27 1.27)) hide)
@@ -1667,20 +1619,20 @@
     (pin "1" (uuid f979490b-1532-4962-bdb2-cf2c3c084704))
   )
 
-  (symbol (lib_id "power:-VDC") (at 177.8 132.08 180) (unit 1)
-    (in_bom yes) (on_board yes)
-    (uuid 5633b50d-bc60-4c4e-a38b-4e23d1469a07)
-    (property "Reference" "#PWR010" (id 0) (at 177.8 129.54 0)
+  (symbol (lib_id "power:GND") (at 177.8 132.08 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 553c14d0-1540-4670-aea9-b15f19caad2e)
+    (property "Reference" "#PWR0104" (id 0) (at 177.8 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "-VDC" (id 1) (at 177.8 139.7 0))
+    (property "Value" "GND" (id 1) (at 177.8 137.16 0))
     (property "Footprint" "" (id 2) (at 177.8 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 177.8 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 59b70d2b-bd2e-4c48-9c2f-a0e45ca92ea5))
+    (pin "1" (uuid 82559085-90d3-4160-b7f0-896ef8c38782))
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 33.02 187.96 0) (unit 1)
@@ -2894,9 +2846,6 @@
     (path "/9208d3ba-7dcf-4749-bb06-ab1187a3bbff"
       (reference "#PWR09") (unit 1) (value "+VDC") (footprint "")
     )
-    (path "/5633b50d-bc60-4c4e-a38b-4e23d1469a07"
-      (reference "#PWR010") (unit 1) (value "-VDC") (footprint "")
-    )
     (path "/f846a415-d0bf-4a59-8df3-19661627a82e"
       (reference "#PWR011") (unit 1) (value "GND") (footprint "")
     )
@@ -3176,8 +3125,8 @@
     (path "/d19b6226-223c-4818-843d-8965d7e15487/ce4d7d2f-2673-4179-a807-438f4472dc1a"
       (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
-    (path "/d19b6226-223c-4818-843d-8965d7e15487/39f7d7ab-8b1f-4432-b528-9727e19eb3d3"
-      (reference "#PWR0104") (unit 1) (value "-VDC") (footprint "")
+    (path "/553c14d0-1540-4670-aea9-b15f19caad2e"
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
     )
     (path "/d19b6226-223c-4818-843d-8965d7e15487/fda2c003-b2fe-4dcd-b571-06fda0e7b682"
       (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
@@ -4000,6 +3949,9 @@
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/cb945cdf-fe9c-4d29-a82a-8e968c63628f"
       (reference "#PWR0378") (unit 1) (value "~") (footprint "")
+    )
+    (path "/d19b6226-223c-4818-843d-8965d7e15487/e822e928-2879-4930-a98b-5cbfa46bfeb9"
+      (reference "#PWR0379") (unit 1) (value "GND") (footprint "")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/67281890-be1c-4753-8cf4-8737fc2a3e55"
       (reference "0x1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_Array_Convex_4x1206")
