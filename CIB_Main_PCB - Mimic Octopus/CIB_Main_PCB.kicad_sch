@@ -1597,6 +1597,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 48.26 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 48.26 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 53c7f716-d0ea-4225-b68b-a89f10a88d92))
   )
 
@@ -1730,6 +1733,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 58.42 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 58.42 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 7136788f-05aa-45f5-a972-0b74da7dc9b9))
   )
 
@@ -1749,6 +1755,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 38.1 187.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "dnp" "dnp" (id 5) (at 38.1 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 25efd295-e0da-4a32-945d-214f6e1b690b))
@@ -1772,6 +1781,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 43.18 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 43.18 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 2f719fe0-542b-45f6-8b27-b8c669ea3113))
   )
 
@@ -1791,6 +1803,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 48.26 187.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "dnp" "dnp" (id 5) (at 48.26 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid cbdfc450-c02f-4de6-93ed-bf07a160bbe1))
@@ -1848,7 +1863,7 @@
     (property "Manufacturer #" "1848684" (id 13) (at 246.38 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Mouser Part Number" "651-1848765" (id 8) (at 265.43 67.31 0)
+    (property "Mouser Part Number" "" (id 8) (at 265.43 67.31 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1848765?qs=0kYgdqhPduEzMECWyGhNIA%3D%3D" (id 9) (at 265.43 69.85 0)
@@ -1860,8 +1875,14 @@
     (property "Arrow Price/Stock" "https://www.arrow.com/en/products/1848684/phoenix-contact?region=nac" (id 11) (at 265.43 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Manufacturer_Part_Number" "1848765" (id 14) (at 265.43 64.77 0)
+    (property "Manufacturer_Part_Number" "" (id 14) (at 265.43 64.77 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Height" "16" (id 15) (at 246.38 54.61 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Mouser #" "651-1848765" (id 16) (at 246.38 54.61 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 6a1f67a4-2859-4a2c-bff5-f565af76d727))
     (pin "10" (uuid 209ec992-4c4e-428b-9847-2f975262a14c))
@@ -1911,6 +1932,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 58.42 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 58.42 187.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid bfb39bbe-3491-422e-9873-470f8189caa1))
   )
 
@@ -1946,6 +1970,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 22.86 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "dnp" "dnp" (id 5) (at 22.86 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 801f467d-8b5f-4e18-be45-a7b54665a393))
@@ -2033,6 +2060,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 58.42 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 58.42 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid e10bd26a-b4de-43ec-980d-97ed2fc64a1f))
   )
 
@@ -2054,6 +2084,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 33.02 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 33.02 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 561df797-8f42-4162-ac70-4d3c5eba7a40))
   )
 
@@ -2073,6 +2106,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 27.94 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "dnp" "dnp" (id 5) (at 27.94 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 6ab7c0f8-8731-46f9-91ad-a25cb31ce6e1))
@@ -2128,6 +2164,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 33.02 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 33.02 187.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 82094318-f9cc-4be5-ba8f-b324289b34cc))
   )
 
@@ -2165,6 +2204,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 22.86 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 22.86 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid a3f86e17-ea4b-42d2-b789-0404b65527e2))
   )
 
@@ -2200,6 +2242,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 27.94 187.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "dnp" "dnp" (id 5) (at 27.94 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 909509fa-4d0c-45be-945f-b7de57865b88))
@@ -2271,6 +2316,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 17.78 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 17.78 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 18580f5b-2d8e-4942-97cf-c661f5dfe1ee))
   )
 
@@ -2340,6 +2388,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 38.1 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 38.1 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 9723d088-5022-48f0-a06c-b5ea55da0f3b))
   )
 
@@ -2393,6 +2444,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 38.1 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 38.1 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid b78bc914-24b1-4f1d-b683-a953d12c7433))
   )
 
@@ -2430,6 +2484,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 33.02 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 33.02 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 632b6495-4fc1-4589-a58f-90a935ceb8e6))
   )
 
@@ -2449,6 +2506,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 22.86 187.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "dnp" "dnp" (id 5) (at 22.86 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid aa126b1f-215d-4d2d-b2e3-c033e5da3997))
@@ -2486,6 +2546,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 53.34 187.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "dnp" "dnp" (id 5) (at 53.34 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c10c8705-b124-42f7-b338-b6fce6710c56))
@@ -2541,6 +2604,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 17.78 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 17.78 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 8cc73ab9-9f58-455a-ba86-c6822bda2e06))
   )
 
@@ -2560,6 +2626,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 53.34 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "dnp" "dnp" (id 5) (at 53.34 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c5b67f4f-50be-4b3b-a944-d34dd6302f9e))
@@ -2583,6 +2652,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 43.18 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 43.18 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid f8fc81ab-45c6-476a-9e89-d8edbf1f74a1))
   )
 
@@ -2602,6 +2674,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 48.26 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "dnp" "dnp" (id 5) (at 48.26 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a1f2c22e-9569-43d3-a7bd-4ea1aa93549d))
@@ -2641,6 +2716,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 17.78 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 17.78 187.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 99670a6b-9150-4bb5-9c22-93081681b843))
   )
 
@@ -2678,6 +2756,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 43.18 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 43.18 187.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid 88325534-5a5e-494a-aa7a-f3720cec3585))
   )
 
@@ -2708,7 +2789,7 @@
     (property "Datasheet" "https://www.phoenixcontact.com/online/portal/us/?uri=pxc-oc-itemdetail:pid=1864134&library=usen&pcck=P-11-02-11&tab=1&selectedCategory=ALL" (id 3) (at 140.97 175.26 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Description" "PCB direct plug, nominal cross section: 2.5 mm?, color: green, nominal current: 12 A, rated voltage (III/2): 320 V, contact surface: Tin, Number of potentials: 12, Number of rows: 1, Number of positions per row: 12, number of connections: 12, product range: SDC 2,5/..-PV, pitch: 5 mm, connection method: Push-in spring connection, mounting: SKEDD - Direct plug-in technology, conductor/PCB connection direction: 90 ?, pin layout: Zigzag pinning W, solder pin [P]: 4.7 mm, Stecksystem: SKEDD, Locking: Snap-in lo" (id 4) (at 140.97 177.8 0)
+    (property "Description" "PCB direct plug, nominal cross section: 2.5 mm, color: green, nominal current: 12 A, rated voltage (III/2): 320 V, contact surface: Tin, Number of potentials: 12, Number of rows: 1, Number of positions per row: 12, number of connections: 12, product range: SDC 2,5/..-PV, pitch: 5 mm, connection method: Push-in spring connection, mounting: SKEDD - Direct plug-in technology, conductor/PCB connection direction: 90 ?, pin layout: Zigzag pinning W, solder pin [P]: 4.7 mm, Stecksystem: SKEDD, Locking: Snap-in lo" (id 4) (at 140.97 177.8 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Manufacturer" "Phoenix Contact" (id 12) (at 121.92 175.26 0)
@@ -2720,7 +2801,7 @@
     (property "Height" "16" (id 5) (at 140.97 180.34 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Mouser Part Number" "651-1864134" (id 8) (at 140.97 187.96 0)
+    (property "Mouser Part Number" "" (id 8) (at 140.97 187.96 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1864134?qs=k%252BwXAfPrzCmVYT8Zg0WKYg%3D%3D" (id 9) (at 140.97 190.5 0)
@@ -2731,6 +2812,9 @@
     )
     (property "Arrow Price/Stock" "https://www.arrow.com/en/products/1864134/phoenix-contact" (id 11) (at 140.97 195.58 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Mouser #" "651-1864134" (id 14) (at 121.92 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 37381579-9870-4dd7-9d40-37e9667e9b37))
     (pin "10" (uuid cb1fe7e6-655a-44bc-a2e5-1440518fe6f1))
@@ -2762,6 +2846,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 53.34 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "dnp" "dnp" (id 5) (at 53.34 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f7998028-c616-4dd4-8d09-33c2cddeb3a5))
@@ -2849,6 +2936,9 @@
     (property "Description" "4mm ⌀ Mounting Holes" (id 4) (at 27.94 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "dnp" "dnp" (id 5) (at 27.94 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (pin "1" (uuid d49dbff2-b983-4798-8ccf-c45ba353b537))
   )
 
@@ -2914,16 +3004,16 @@
     (property "Description" "Pluggable Terminal Blocks SDDC 1,5/ 16-PV-3,5" (id 4) (at 265.43 113.03 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Height" "" (id 5) (at 265.43 115.57 0)
+    (property "Height" "16" (id 5) (at 265.43 115.57 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Manufacturer_Name" "Phoenix Contact" (id 6) (at 265.43 118.11 0)
+    (property "Manufacturer_Name" "" (id 6) (at 265.43 118.11 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Manufacturer_Part_Number" "1848781" (id 7) (at 265.43 120.65 0)
+    (property "Manufacturer_Part_Number" "" (id 7) (at 265.43 120.65 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Mouser Part Number" "651-1848781" (id 8) (at 265.43 123.19 0)
+    (property "Mouser Part Number" "" (id 8) (at 265.43 123.19 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1848781?qs=0kYgdqhPduFxqrPfl%2FUWoA%3D%3D" (id 9) (at 265.43 125.73 0)
@@ -2934,6 +3024,15 @@
     )
     (property "Arrow Price/Stock" "https://www.arrow.com/en/products/1848781/phoenix-contact" (id 11) (at 265.43 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Manufacturer" "Phoenix Contact" (id 12) (at 246.38 110.49 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer #" "1848781" (id 13) (at 246.38 110.49 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Mouser #" "651-1848781" (id 14) (at 246.38 110.49 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e463aa59-feb4-40a0-8148-916e11747f55))
     (pin "10" (uuid b4aa3bb1-ee6e-4b74-8a8a-7d55b429026a))
@@ -4722,7 +4821,7 @@
       (reference "#PWR0414") (unit 1) (value "+5V") (footprint "")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/d0263316-2c98-4f52-9104-1033084b91f8/d8aa85b4-5e93-4c9f-8aee-792c0680f230"
-      (reference "C1") (unit 1) (value "100nF 60V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C1") (unit 1) (value "0.1uF 63V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/d0263316-2c98-4f52-9104-1033084b91f8/ab49e2be-f23b-404b-a02c-e32b95724d36"
       (reference "C2") (unit 1) (value "10uF 16 V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
@@ -4731,10 +4830,10 @@
       (reference "C3") (unit 1) (value "10uF 16 V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/d0263316-2c98-4f52-9104-1033084b91f8/44da83f5-2e69-4d4a-b9af-31469870bc7b"
-      (reference "C4") (unit 1) (value "100nF 60V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C4") (unit 1) (value "0.1uF 63V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/d0263316-2c98-4f52-9104-1033084b91f8/6f5bb59d-8d94-48c7-b063-f6073575521e"
-      (reference "C5") (unit 1) (value "100nF 60V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C5") (unit 1) (value "0.1uF 63V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/d0263316-2c98-4f52-9104-1033084b91f8/4abafadf-54a5-4d55-b66b-ea712d00256d"
       (reference "C6") (unit 1) (value "10uF 16 V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
@@ -4743,7 +4842,7 @@
       (reference "C7") (unit 1) (value "10uF 16 V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/d0263316-2c98-4f52-9104-1033084b91f8/d1d7b3d8-14e1-4d90-83a7-d67f4a417b11"
-      (reference "C8") (unit 1) (value "100nF 60V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C8") (unit 1) (value "0.1uF 63V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/d0263316-2c98-4f52-9104-1033084b91f8/d571ea83-61af-4811-9eb0-8bafc861b642"
       (reference "C9") (unit 1) (value "10uF 16 V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
@@ -4764,13 +4863,13 @@
       (reference "C14") (unit 1) (value "22uF 16 V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/d19b6226-223c-4818-843d-8965d7e15487/23139539-b0a9-43f7-89dd-8452e950b4ac"
-      (reference "C15") (unit 1) (value "470uF 16 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
+      (reference "C15") (unit 1) (value "470uF 20 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
     )
     (path "/d19b6226-223c-4818-843d-8965d7e15487/0838fe5e-ae68-40d5-b342-63969dd31321"
-      (reference "C16") (unit 1) (value "470uF 16 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
+      (reference "C16") (unit 1) (value "470uF 20 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
     )
     (path "/d19b6226-223c-4818-843d-8965d7e15487/24d62c45-d684-488c-8491-f0a14ac3aa33"
-      (reference "C17") (unit 1) (value "470uF 16 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
+      (reference "C17") (unit 1) (value "470uF 20 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
     )
     (path "/d19b6226-223c-4818-843d-8965d7e15487/a7847ff2-9afc-48d7-a26b-2adafa0e42d1"
       (reference "C18") (unit 1) (value "10uF 16 V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
@@ -4779,7 +4878,7 @@
       (reference "C19") (unit 1) (value "10uF 16 V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/d19b6226-223c-4818-843d-8965d7e15487/f906da75-2948-4bbe-be01-f65f877767a1"
-      (reference "C20") (unit 1) (value "100uF 30 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
+      (reference "C20") (unit 1) (value "100uF 25 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
     )
     (path "/d19b6226-223c-4818-843d-8965d7e15487/10be43ed-588e-4703-8443-15145fc8382a"
       (reference "C21") (unit 1) (value "10uF 16 V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
@@ -4794,13 +4893,13 @@
       (reference "C24") (unit 1) (value "22uF 16 V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/d19b6226-223c-4818-843d-8965d7e15487/3816b029-22c9-4dc7-b763-48e16b92dc91"
-      (reference "C25") (unit 1) (value "470uF 16 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
+      (reference "C25") (unit 1) (value "470uF 20 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
     )
     (path "/d19b6226-223c-4818-843d-8965d7e15487/2534a313-d6fa-4a7e-a576-b6a5f8f6bafa"
-      (reference "C26") (unit 1) (value "470uF 16 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
+      (reference "C26") (unit 1) (value "470uF 20 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
     )
     (path "/d19b6226-223c-4818-843d-8965d7e15487/0c87803d-8d3c-44bd-8ab9-5de8a7641a55"
-      (reference "C27") (unit 1) (value "470uF 16 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
+      (reference "C27") (unit 1) (value "470uF 20 V") (footprint "Capacitor_SMD:C_Elec_8x10.2")
     )
     (path "/d19b6226-223c-4818-843d-8965d7e15487/3b2f7a8b-8264-456e-86bf-fccbc022fd5f"
       (reference "C28") (unit 1) (value "10uF 16 V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
@@ -4935,13 +5034,13 @@
       (reference "C71") (unit 1) (value "10uF 16 V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/d0263316-2c98-4f52-9104-1033084b91f8/dfe1ed07-c8ab-4842-ba82-46983a809c1e"
-      (reference "D1") (unit 1) (value "55V") (footprint "Diode_SMD:D_SMB_Handsoldering")
+      (reference "D1") (unit 1) (value "56V") (footprint "Diode_SMD:D_SMB_Handsoldering")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/d0263316-2c98-4f52-9104-1033084b91f8/2883651a-b31d-409e-a0ea-0becc9f87bf9"
       (reference "D2") (unit 1) (value "Green") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/d0263316-2c98-4f52-9104-1033084b91f8/71f9cb77-796a-4a19-a41f-45d0194d08a6"
-      (reference "D3") (unit 1) (value "55V") (footprint "Diode_SMD:D_SMB_Handsoldering")
+      (reference "D3") (unit 1) (value "56V") (footprint "Diode_SMD:D_SMB_Handsoldering")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/d0263316-2c98-4f52-9104-1033084b91f8/be6126ce-ad56-45c2-a938-bbbdc16978f5"
       (reference "D4") (unit 1) (value "Green") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
@@ -5463,145 +5562,145 @@
       (reference "K4") (unit 1) (value "PC357") (footprint "_Connectors:PC375")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/4fddf724-26d2-43fb-bcb0-a0d3ca4c6174/bd4c1e64-3d85-4168-a1e7-371a0eb8dee4"
-      (reference "K5") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K5") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/4fddf724-26d2-43fb-bcb0-a0d3ca4c6174/75b6e662-099a-4b6d-92e6-8998bea8eae7"
-      (reference "K6") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K6") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/4fddf724-26d2-43fb-bcb0-a0d3ca4c6174/ab660991-b878-491c-8e77-5eae6a9262b5"
-      (reference "K7") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K7") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/4fddf724-26d2-43fb-bcb0-a0d3ca4c6174/917078cd-87f0-4175-a7da-da471e934d14"
-      (reference "K8") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K8") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/4fddf724-26d2-43fb-bcb0-a0d3ca4c6174/1c439fee-2b4e-4bab-9ad3-8b59af779359"
-      (reference "K9") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K9") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/4fddf724-26d2-43fb-bcb0-a0d3ca4c6174/f8799e5e-23f6-425b-978f-bcc8e3957c65"
-      (reference "K10") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K10") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/4fddf724-26d2-43fb-bcb0-a0d3ca4c6174/1f2bd895-9b70-4ae7-92d8-2c0b1920935e"
-      (reference "K11") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K11") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/4fddf724-26d2-43fb-bcb0-a0d3ca4c6174/04f38054-f261-414f-a60f-4154bdc5701b"
-      (reference "K12") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K12") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/3930a2c0-2c64-48b3-ae04-a515869c19ad/fc564d67-8147-46dd-883d-d33ea42fe3d0"
-      (reference "K13") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K13") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/3930a2c0-2c64-48b3-ae04-a515869c19ad/6a1d0552-4f88-4673-b6ac-28f8862106e9"
-      (reference "K14") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K14") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/3930a2c0-2c64-48b3-ae04-a515869c19ad/aab0d7bc-871d-497a-9e67-5954c991bc01"
-      (reference "K15") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K15") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/3930a2c0-2c64-48b3-ae04-a515869c19ad/bfaef1b9-8188-49b2-b49b-dbbd5769f9f9"
-      (reference "K16") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K16") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/3930a2c0-2c64-48b3-ae04-a515869c19ad/28c415bb-47a9-46d7-b57f-279857ba42eb"
-      (reference "K17") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K17") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/cc27e368-a093-436d-a9e8-98741eacacc8/70048c2e-5412-4c42-9c04-c63e50d652a0"
-      (reference "K18") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K18") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/cc27e368-a093-436d-a9e8-98741eacacc8/fa955151-a52c-4852-9a2d-e052ba69a38e"
-      (reference "K19") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K19") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/cc27e368-a093-436d-a9e8-98741eacacc8/a344c7a1-e290-4f00-a5fa-7c1b06fb2d0c"
-      (reference "K20") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K20") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/cc27e368-a093-436d-a9e8-98741eacacc8/8f19ff43-1133-4d49-8bfb-2d0511ce6a48"
-      (reference "K21") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K21") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/cc27e368-a093-436d-a9e8-98741eacacc8/f221cf73-b709-4d51-8081-845d806e36e7"
-      (reference "K22") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K22") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/cc27e368-a093-436d-a9e8-98741eacacc8/5a5a7a00-d050-4ffc-b397-05f5776eb106"
-      (reference "K23") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K23") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/cc27e368-a093-436d-a9e8-98741eacacc8/3aa17284-8f9a-4da9-9537-337ddb5875d5"
-      (reference "K24") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K24") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/cc27e368-a093-436d-a9e8-98741eacacc8/af95a140-c831-4a69-8f5b-66ecbfc2567d"
-      (reference "K25") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K25") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/4dec7f82-51a5-4643-8273-61fd22166cb7/70048c2e-5412-4c42-9c04-c63e50d652a0"
-      (reference "K26") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K26") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/4dec7f82-51a5-4643-8273-61fd22166cb7/fa955151-a52c-4852-9a2d-e052ba69a38e"
-      (reference "K27") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K27") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/4dec7f82-51a5-4643-8273-61fd22166cb7/a344c7a1-e290-4f00-a5fa-7c1b06fb2d0c"
-      (reference "K28") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K28") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/4dec7f82-51a5-4643-8273-61fd22166cb7/8f19ff43-1133-4d49-8bfb-2d0511ce6a48"
-      (reference "K29") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K29") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/4dec7f82-51a5-4643-8273-61fd22166cb7/f221cf73-b709-4d51-8081-845d806e36e7"
-      (reference "K30") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K30") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/4dec7f82-51a5-4643-8273-61fd22166cb7/5a5a7a00-d050-4ffc-b397-05f5776eb106"
-      (reference "K31") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K31") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/4dec7f82-51a5-4643-8273-61fd22166cb7/3aa17284-8f9a-4da9-9537-337ddb5875d5"
-      (reference "K32") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K32") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/308b881f-4d64-453c-b133-00b354ff13ce/4dec7f82-51a5-4643-8273-61fd22166cb7/af95a140-c831-4a69-8f5b-66ecbfc2567d"
-      (reference "K33") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K33") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/cc27e368-a093-436d-a9e8-98741eacacc8/70048c2e-5412-4c42-9c04-c63e50d652a0"
-      (reference "K34") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K34") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/cc27e368-a093-436d-a9e8-98741eacacc8/fa955151-a52c-4852-9a2d-e052ba69a38e"
-      (reference "K35") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K35") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/cc27e368-a093-436d-a9e8-98741eacacc8/a344c7a1-e290-4f00-a5fa-7c1b06fb2d0c"
-      (reference "K36") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K36") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/cc27e368-a093-436d-a9e8-98741eacacc8/8f19ff43-1133-4d49-8bfb-2d0511ce6a48"
-      (reference "K37") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K37") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/cc27e368-a093-436d-a9e8-98741eacacc8/f221cf73-b709-4d51-8081-845d806e36e7"
-      (reference "K38") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K38") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/cc27e368-a093-436d-a9e8-98741eacacc8/5a5a7a00-d050-4ffc-b397-05f5776eb106"
-      (reference "K39") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K39") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/cc27e368-a093-436d-a9e8-98741eacacc8/3aa17284-8f9a-4da9-9537-337ddb5875d5"
-      (reference "K40") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K40") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/cc27e368-a093-436d-a9e8-98741eacacc8/af95a140-c831-4a69-8f5b-66ecbfc2567d"
-      (reference "K41") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K41") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/4dec7f82-51a5-4643-8273-61fd22166cb7/70048c2e-5412-4c42-9c04-c63e50d652a0"
-      (reference "K42") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K42") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/4dec7f82-51a5-4643-8273-61fd22166cb7/fa955151-a52c-4852-9a2d-e052ba69a38e"
-      (reference "K43") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K43") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/4dec7f82-51a5-4643-8273-61fd22166cb7/a344c7a1-e290-4f00-a5fa-7c1b06fb2d0c"
-      (reference "K44") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K44") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/4dec7f82-51a5-4643-8273-61fd22166cb7/8f19ff43-1133-4d49-8bfb-2d0511ce6a48"
-      (reference "K45") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K45") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/4dec7f82-51a5-4643-8273-61fd22166cb7/f221cf73-b709-4d51-8081-845d806e36e7"
-      (reference "K46") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K46") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/4dec7f82-51a5-4643-8273-61fd22166cb7/5a5a7a00-d050-4ffc-b397-05f5776eb106"
-      (reference "K47") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K47") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/4dec7f82-51a5-4643-8273-61fd22166cb7/3aa17284-8f9a-4da9-9537-337ddb5875d5"
-      (reference "K48") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K48") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/220915b7-27ff-418c-ba86-8b6c33157d42/4dec7f82-51a5-4643-8273-61fd22166cb7/af95a140-c831-4a69-8f5b-66ecbfc2567d"
-      (reference "K49") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K49") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/479626c8-d0f4-4786-8648-7bfedde713eb/26afad66-a9d6-4912-a806-b3074aa5d379"
-      (reference "K50") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K50") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/bf197791-f0c1-45bf-ae92-0afefa911606/479626c8-d0f4-4786-8648-7bfedde713eb/dab122eb-a80c-424a-b807-a9f498be0f4c"
-      (reference "K51") (unit 1) (value "~") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
+      (reference "K51") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G6K-2P")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/cf64f05f-9c27-4a7e-b003-e8df8de1c7d6/bcdf1e9a-d1e6-4b10-94b0-d5a1500a4943/7577af76-54b6-4f5f-bead-653908cadf66"
       (reference "K52") (unit 1) (value "PC357") (footprint "_Connectors:PC375")
@@ -5652,148 +5751,148 @@
       (reference "K67") (unit 1) (value "PC357") (footprint "_Connectors:PC375")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/84461cfe-6ee7-4328-936c-86d9440ae4d3/788b977c-969c-4da0-8f75-113f51a00231"
-      (reference "K68") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K68") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/84461cfe-6ee7-4328-936c-86d9440ae4d3/4566b05a-7f7e-47dc-8920-f043cad5d7f5"
-      (reference "K69") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K69") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/84461cfe-6ee7-4328-936c-86d9440ae4d3/b73357af-b1e0-48e3-8690-3b50d3aebc15"
-      (reference "K70") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K70") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/84461cfe-6ee7-4328-936c-86d9440ae4d3/25f967f9-8302-413a-b90b-940adba22cc5"
-      (reference "K71") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K71") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/84461cfe-6ee7-4328-936c-86d9440ae4d3/fe4ea03a-a753-43e0-b034-17d450d6fa13"
-      (reference "K72") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K72") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/84461cfe-6ee7-4328-936c-86d9440ae4d3/7385b63c-a80c-4f85-9d68-eb09b734d442"
-      (reference "K73") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K73") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/84461cfe-6ee7-4328-936c-86d9440ae4d3/fdda3f97-fa35-4713-a268-c0ab9203810c"
-      (reference "K74") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K74") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/84461cfe-6ee7-4328-936c-86d9440ae4d3/c9744f83-e81d-4583-bf84-fda1de84f013"
-      (reference "K75") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K75") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/788b977c-969c-4da0-8f75-113f51a00231"
-      (reference "K76") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K76") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/4566b05a-7f7e-47dc-8920-f043cad5d7f5"
-      (reference "K77") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K77") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/b73357af-b1e0-48e3-8690-3b50d3aebc15"
-      (reference "K78") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K78") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/25f967f9-8302-413a-b90b-940adba22cc5"
-      (reference "K79") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K79") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/fe4ea03a-a753-43e0-b034-17d450d6fa13"
-      (reference "K80") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K80") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/7385b63c-a80c-4f85-9d68-eb09b734d442"
-      (reference "K81") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K81") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/fdda3f97-fa35-4713-a268-c0ab9203810c"
-      (reference "K82") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K82") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/d1bf4a8b-4b31-47ff-9ecf-05d8404203ac/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/c9744f83-e81d-4583-bf84-fda1de84f013"
-      (reference "K83") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K83") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/84461cfe-6ee7-4328-936c-86d9440ae4d3/788b977c-969c-4da0-8f75-113f51a00231"
-      (reference "K84") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K84") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/84461cfe-6ee7-4328-936c-86d9440ae4d3/4566b05a-7f7e-47dc-8920-f043cad5d7f5"
-      (reference "K85") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K85") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/84461cfe-6ee7-4328-936c-86d9440ae4d3/b73357af-b1e0-48e3-8690-3b50d3aebc15"
-      (reference "K86") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K86") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/84461cfe-6ee7-4328-936c-86d9440ae4d3/25f967f9-8302-413a-b90b-940adba22cc5"
-      (reference "K87") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K87") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/84461cfe-6ee7-4328-936c-86d9440ae4d3/fe4ea03a-a753-43e0-b034-17d450d6fa13"
-      (reference "K88") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K88") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/84461cfe-6ee7-4328-936c-86d9440ae4d3/7385b63c-a80c-4f85-9d68-eb09b734d442"
-      (reference "K89") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K89") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/84461cfe-6ee7-4328-936c-86d9440ae4d3/fdda3f97-fa35-4713-a268-c0ab9203810c"
-      (reference "K90") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K90") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/84461cfe-6ee7-4328-936c-86d9440ae4d3/c9744f83-e81d-4583-bf84-fda1de84f013"
-      (reference "K91") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K91") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/788b977c-969c-4da0-8f75-113f51a00231"
-      (reference "K92") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K92") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/4566b05a-7f7e-47dc-8920-f043cad5d7f5"
-      (reference "K93") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K93") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/b73357af-b1e0-48e3-8690-3b50d3aebc15"
-      (reference "K94") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K94") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/25f967f9-8302-413a-b90b-940adba22cc5"
-      (reference "K95") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K95") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/fe4ea03a-a753-43e0-b034-17d450d6fa13"
-      (reference "K96") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K96") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/7385b63c-a80c-4f85-9d68-eb09b734d442"
-      (reference "K97") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K97") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/fdda3f97-fa35-4713-a268-c0ab9203810c"
-      (reference "K98") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K98") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/6a3fe415-3a20-4960-bec4-18cc27ee8f71/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/c9744f83-e81d-4583-bf84-fda1de84f013"
-      (reference "K99") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K99") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/84461cfe-6ee7-4328-936c-86d9440ae4d3/788b977c-969c-4da0-8f75-113f51a00231"
-      (reference "K100") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K100") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/84461cfe-6ee7-4328-936c-86d9440ae4d3/4566b05a-7f7e-47dc-8920-f043cad5d7f5"
-      (reference "K101") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K101") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/84461cfe-6ee7-4328-936c-86d9440ae4d3/b73357af-b1e0-48e3-8690-3b50d3aebc15"
-      (reference "K102") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K102") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/84461cfe-6ee7-4328-936c-86d9440ae4d3/25f967f9-8302-413a-b90b-940adba22cc5"
-      (reference "K103") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K103") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/84461cfe-6ee7-4328-936c-86d9440ae4d3/fe4ea03a-a753-43e0-b034-17d450d6fa13"
-      (reference "K104") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K104") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/84461cfe-6ee7-4328-936c-86d9440ae4d3/7385b63c-a80c-4f85-9d68-eb09b734d442"
-      (reference "K105") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K105") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/84461cfe-6ee7-4328-936c-86d9440ae4d3/fdda3f97-fa35-4713-a268-c0ab9203810c"
-      (reference "K106") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K106") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/84461cfe-6ee7-4328-936c-86d9440ae4d3/c9744f83-e81d-4583-bf84-fda1de84f013"
-      (reference "K107") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K107") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/788b977c-969c-4da0-8f75-113f51a00231"
-      (reference "K108") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K108") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/4566b05a-7f7e-47dc-8920-f043cad5d7f5"
-      (reference "K109") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K109") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/b73357af-b1e0-48e3-8690-3b50d3aebc15"
-      (reference "K110") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K110") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/25f967f9-8302-413a-b90b-940adba22cc5"
-      (reference "K111") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K111") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/fe4ea03a-a753-43e0-b034-17d450d6fa13"
-      (reference "K112") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K112") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/7385b63c-a80c-4f85-9d68-eb09b734d442"
-      (reference "K113") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K113") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/fdda3f97-fa35-4713-a268-c0ab9203810c"
-      (reference "K114") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K114") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/ac50953b-9da5-4fc3-b281-a450253c6342/701758d6-01ab-43b0-aa24-ce7bc15ca1f9/c9744f83-e81d-4583-bf84-fda1de84f013"
-      (reference "K115") (unit 1) (value "G2RL") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
+      (reference "K115") (unit 1) (value "G6K-2P DC12") (footprint "Relay_THT:Relay_DPDT_Omron_G2RL")
     )
     (path "/dac46a3f-d5eb-47ac-9e3d-f3cacdc2efd5/34e0a8b8-0525-492b-9bec-b4c307a8ccff"
       (reference "NT1") (unit 1) (value "NetTie_2") (footprint "NetTie:NetTie-2_SMD_Pad0.5mm")
